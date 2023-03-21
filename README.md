@@ -70,6 +70,10 @@ User jane_admin as your admin account from now on
 Join Client-1 to your domain (mydomain.com)
   
 From the Azure Portal, set Client-1’s DNS settings to the DC’s Private IP address
+<p>
+<img src="https://i.imgur.com/wSS22E6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
 
 From the Azure Portal, restart Client-1
   
