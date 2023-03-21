@@ -102,7 +102,7 @@ Login to DC-1 as jane_admin
   
 Open PowerShell_ise as an administrator
   
-Create a new File and paste the contents of the script into it
+Create a new File and paste the contents of the script(https://github.com/ZionHopkins/Employee-Creation-Script) into it
   
 Run the script and observe the accounts being created
   
